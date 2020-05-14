@@ -1,0 +1,55 @@
+body
+{
+	margin-top:0;
+	margin-left: 0;
+	margin-bottom: 15px;
+}
+
+#h1a
+{
+	text-align: center;
+}
+
+#p1
+{
+	text-align: center;
+	padding-top: 0;
+	font-style: italic; 
+	text-decoration-line: underline;
+}
+
+#img1
+{
+	width:100%;
+}
+
+#img2
+{
+	padding-left: 40%;
+}
+
+#but1
+{
+	margin-left: 41%;
+}
+
+#img3
+{
+	width: 100%;
+	padding-top: 15px;
+}
+
+#but2
+{
+	margin-left: 40%;
+}
+
+#img4
+{
+	padding-left: 39%
+}
+
+#but3
+{
+	margin-left: 41%;
+}

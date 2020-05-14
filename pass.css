@@ -1,0 +1,41 @@
+body
+{
+	background-color: #FADBD8;
+	padding-left:10px;
+}
+
+#h1a
+{
+	text-align: center;
+}
+
+p {
+    margin: 10px 0;
+    padding: 5px;
+    border: 1px solid #999;
+}
+
+#img1
+{
+	display: flex;
+	align-items:center;
+	justify-content: center;
+	width:30rem;
+	height: 350px;
+}
+
+hr
+{
+    border-style:none;
+    border-top-style:dotted;
+    border-width: 5px;
+    border-color:grey;
+}
+
+#table1
+{
+	background-color: #D5F5E3 ;
+	padding-left: 30px;
+	border-spacing: 40px 1rem;
+	border:5px red solid;
+}
