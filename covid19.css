@@ -52,15 +52,13 @@ a{
 	width: 100%;
 }
 
-.container{
-	height:80vh; 
-	display: flex;
-	align-items:center;
-	justify-content: center;
-}
 
-.cover{
-	width: 30rem;
+.cover
+{
+    width:50%;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 25%;
 }
 
 .grid-wrapper{
